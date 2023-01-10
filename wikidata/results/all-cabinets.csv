@@ -1,1 +1,7 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,abolished,abolishedPrecision,replaces,replacesLabel,replacedBy,replacedByLabel
+,Q104843302,Tatar cabinet,,,,,,,,
+,Q21523602,Kalyoncu cabinet,,,,,,,,
+,Q48995954,Özgürgün cabinet,,,,,,,,
+,Q85759537,Erhürman cabinet,,,,,,,,
+,Q28220012,Siber cabinet,2013-06-06,11,2013-09-02,11,,,Q20949772,Yorgancıoğlu cabinet
+,Q20949772,Yorgancıoğlu cabinet,2013-09-02,11,2015-07-16,11,Q28220012,Siber cabinet,Q21523602,Kalyoncu cabinet

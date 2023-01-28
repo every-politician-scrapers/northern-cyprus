@@ -1,7 +1,7 @@
-who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-45294131,List of Ministers of Foreign Affairs of Northern Cyprus,Minister of Foreign Affairs,2020-12-09,,Q19309901,Kudret Özersay,,,0
-45294131,,,2016-04-16,2018-02-02,Q20740722,Emine Çolak,Q19309901,Kudret Özersay,1
-45294131,,,1998-12-31,2004-07-16,Taner Etkin,Taner Etkin,Q2272256,Serdar Denktaş,2
-45294131,,Minister of Transport,2015-07-16,2016-04-16,Q6081184,Hasan Taçoy,Kemal Dürüst,Kemal Dürüst,3
-45294131,National Unity Party (Northern Cyprus),Leader of the National Unity Party,2006-12-16,2008-11-29,Q58174,Hüseyin Özgürgün,Q332476,Derviş Eroğlu,4
-45294131,Assembly of the Republic (Northern Cyprus),Member of the Assembly of Republic,1998-12-06,2018-01-07,,,,,5
+who,position,began,ended
+45294131,Member of the Assembly of Republic,1998-12-06,2018-01-07
+45294131,Minister of Foreign Affairs,1998-12-31,2004-07-16
+45294131,Leader of the National Unity Party,2006-12-16,2008-11-29
+45294131,Minister of Transport,2015-07-16,2016-04-16
+45294131,Minister of Foreign Affairs,2016-04-16,2018-02-02
+45294131,Minister of Foreign Affairs,2020-12-09,

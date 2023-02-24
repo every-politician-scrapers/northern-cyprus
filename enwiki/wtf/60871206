@@ -618,6 +618,11 @@
               "text": "One week before the 2020 presidential election, Tatar visited Turkey.",
               "links": [
                 {
+                  "text": "2020 presidential election",
+                  "type": "internal",
+                  "page": "2020 Northern Cypriot presidential election"
+                },
+                {
                   "type": "internal",
                   "page": "Turkey"
                 }
